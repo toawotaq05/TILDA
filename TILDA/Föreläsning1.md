@@ -20,15 +20,15 @@ Allt är digitalt.
 
 Det finns 9st laborationer. 
 
-Datastruktur-kö
-Binära träd
-Grafer
-Rekursion
-Sökning och sortering ( typ bubbelsortering )
-Hashtaballer
-Kattis (Rättningsprogram, så man vet om man gjort rätt)
-Formelkoll
-Molekylvikter
+* Datastruktur-kö
+* Binära träd
+* Grafer
+* Rekursion
+* Sökning och sortering ( typ bubbelsortering )
+* Hashtaballer
+* Kattis (Rättningsprogram, så man vet om man gjort rätt)
+* Formelkoll
+* Molekylvikter
 
 
 
