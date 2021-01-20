@@ -15,6 +15,7 @@ För labbar skriver du i kommentarsfältet en zoom länk som du skapat, och så 
 queue.csc.kth.se/queue/tilda
 
 Allt är digitalt. 
+Saker som är på E-delen på tentan är med på KSarna. Dessa tas inte med på laborationerna. 
 
 ## Laborationer
 
