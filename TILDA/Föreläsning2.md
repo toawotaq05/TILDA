@@ -14,11 +14,11 @@ Fördelar med abstraktion är
 * specifikation av vilka anrop som finns kallas datatypens gränssnitt och är det enda användaren behöver känna till.
 
 ## ny klass i python
-
+```python
 class Trams:
     def __init__(self):  
         self.x=0
-
+```
 
 
 
