@@ -20,8 +20,25 @@ class Trams:
         self.x=0
 ```
 
+Lite annorlunda, om man vill att användaren inte ska kunna se vad variablerna kallas. Mer abstraktion! Inkapsling.
 
+```python
+class Trams:
+    def __init__(self):  
+        self.__x=0
+```
 
+## Test kod
+
+```python
+if __name__ == '__main__':
+    testkod
+```
+testkod för att se om något kraschar, eller att alla funktioner fungerar som det var. Nyttigt att använda då man ska importera koden till en annan kod, typ 
+```python
+from listdict.py import listdict
+```
+ Om det är importerat så kommer koden inte att köras! Mest viktigt när man skriver koden första gången.
 
 ## Kö
 
@@ -31,7 +48,7 @@ class Trams:
 * isEmpty()              # kolla om kön är tom
 * n = size()                        # antalet element i kön
 
-FIFO = first in, first served. 
+FIFO = first in, first out. 
 
 
 ## Stack
@@ -41,6 +58,8 @@ FIFO = first in, first served.
 * push(X): lägg x överst på stacken.
 * x=pop(): Plocka ut och returnera det som ligger överst.
 * isEmpty(): Undersök om stacken är tom.
+
+LIFO = last in, first out.
 
 ## Abstrakt deque
 
