@@ -75,12 +75,4 @@ class TestQueue(unittest.TestCase):
         self.assertEqual(q.dequeue(), 3)
 
 if __name__ == "__main__":
-    unittest.main() 
-    
-    
-    
-#q = LinkedQ()
-#q.enqueue(1)
-#q.enqueue(2)
-#q.enqueue(3)
-
+    unittest.main()
